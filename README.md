@@ -41,11 +41,4 @@ I enjoy building clean, reliable web applications — especially backend-heavy s
 
 ---
 
-## 🤝 Let’s connect
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
-
-- 💼 https://www.linkedin.com/in/jeremy-thelen-50462824  
-- 📬 jeremythelen07@gmail.com  
-
 ⭐ Feel free to explore my repositories — feedback is always welcome
